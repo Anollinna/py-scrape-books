@@ -1,6 +1,6 @@
 import scrapy
 from scrapy.http import Response
-from typing_extensions import Generator
+from typing import Generator
 from book_parser.items import BookParserItem
 
 
